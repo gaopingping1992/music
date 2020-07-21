@@ -3,7 +3,7 @@
     <router-link tag="div" class="tab-item" to="/recommend">
       <span class="tab-link">推荐</span>
     </router-link>
-    <!-- <router-link tag="div" class="tab-item" to="/singer">
+    <router-link tag="div" class="tab-item" to="/singer">
       <span class="tab-link">歌手</span>
     </router-link>
     <router-link tag="div" class="tab-item" to="/rank">
@@ -12,7 +12,7 @@
     </router-link>
     <router-link tag="div" class="tab-item" to="/search">
       <span class="tab-link">搜索</span>
-    </router-link> -->
+    </router-link>
   </div>
 </template>
 
@@ -27,6 +27,7 @@ export default {}
     height: 44px
     line-height: 44px
     font-size: $font-size-medium
+    background-color: rgba(0,0,0,0.9);
     .tab-item
       flex: 1
       text-align: center
