@@ -1,15 +1,9 @@
 export const commonParams = {
-  '-': 'recom4342730828435881',
-  g_tk: 5381,
-  sign: 'zzaakdzzjeg67uff15c4441255ee9ef959d8dacccc3f88',
-  loginUin: 0,
-  hostUin: 0,
-  format: 'json',
-  inCharset: 'utf8',
+  g_tk: 1928093487,
+  inCharset: 'utf-8',
   outCharset: 'utf-8',
   notice: 0,
-  platform: 'yqq.json',
-  needNewCode: 0
+  format: 'jsonp'
 }
 
 export const options = {
